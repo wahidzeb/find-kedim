@@ -1,0 +1,42 @@
+{
+  "id": "/find-kedim/",
+  "name": "Find Kedim!",
+  "short_name": "Find Kedim!",
+  "description": "Find Kedim! by Zaib: pinch, zoom and tap to spot the hidden cats in busy hand drawn Malaysian scenes: a kampung, a beach, a KL street, a wet market and a mosque courtyard. Start with 10 easy cats and work up to 36 sneaky ones. Glowing hints, a sticker album and a timed mode. Free and kid-friendly, for ages 4 and up.",
+  "lang": "en",
+  "start_url": "/find-kedim/?source=pwa",
+  "scope": "/find-kedim/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#ff9d3c",
+  "background_color": "#ff9d3c",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "/find-kedim/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/find-kedim/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/find-kedim/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/find-kedim/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
